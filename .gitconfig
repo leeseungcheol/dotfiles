@@ -1,0 +1,12 @@
+[user]
+	name = SeungChul Lee
+	email = kyle.seungchul@gmail.com
+[credential]
+	helper = osxkeychain
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
+	last = log -1 HEAD
