@@ -1,8 +1,6 @@
 [user]
-	name = SeungChul Lee
+	name = Lee SeungChul
 	email = kyle.seungchul@gmail.com
-[credential]
-	helper = osxkeychain
 [alias]
 	co = checkout
 	br = branch
